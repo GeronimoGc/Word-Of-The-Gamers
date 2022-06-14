@@ -2,3 +2,15 @@ body {
     height: 665px;
     background-size: 10rem;
 }
+
+#menu_inicio {
+    position: absolute;
+    left: 5cm;
+    top: 0.2cm;
+}
+
+#menu_categoria {
+    position: absolute;
+    left: 7cm;
+    top: 0.2cm;
+}
